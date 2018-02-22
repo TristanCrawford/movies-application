@@ -1,1 +1,1 @@
-export default (name) => console.log(`Hello there, ${name}!`);
+module.exports = { sayHello: name => console.log(`Hello there, ${name}`)  };

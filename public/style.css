@@ -2,6 +2,19 @@ html, body {
     height: 100%;
 }
 
+table {
+    margin: 8px;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 16px;
+}
+
+#movies {
+    margin: 0px auto;
+}
+
 .container {
     position: relative;
     top: 50%;
